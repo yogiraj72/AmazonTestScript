@@ -5,7 +5,7 @@ from selenium.webdriver.common.keys import Keys
 # This class is of amazon page
 class SearchProduct:
 
-    # All the webelement located using xpath required the script
+    # All the webelement located using xpath required for the script
 
     search_box_id = "//input[@id='twotabsearchtextbox']"
     search_btn_id = "//input[@id='nav-search-submit-button']"
@@ -48,6 +48,7 @@ class SearchProduct:
         add_to = self.driver.find_element("xpath", self.add_to_cart)
         add_to.click()
 
+     # this method handle the new open window
     def windowhandle(self):
         child_page = self.driver.window_handles[1]
         self.driver.switch_to.window(child_page)

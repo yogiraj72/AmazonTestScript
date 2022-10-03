@@ -8,7 +8,7 @@ from utilities.customLogger import LogGen
 
 # Test case for Amazon searchProduct
 class TestCaseSearch:
-    # Declare variable for test case
+    # Declare & initialized variable for test case from configuration file
     baseURL = ReadConfig.getappurl()
     searchWord = ReadConfig.searchword()
     minValue = ReadConfig.minvalue()
@@ -20,10 +20,11 @@ class TestCaseSearch:
     # Test case method to execute script
     def test_search_product(self, setup):
 
+        # logger
         self.logger.info("******* test_search_product *******")
         self.logger.info("******* Search Product on Amazon *******")
 
-        # Browser up and search the amazon
+        # Browser up and search product on amazon
         self.driver = setup
         self.driver.maximize_window()
         self.driver.get(self.baseURL)
