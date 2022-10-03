@@ -1,0 +1,150 @@
+2022-10-02 17:25:17,043: INFO: utilities.customLogger: ******* test_search_product *******
+2022-10-02 17:25:17,044: INFO: utilities.customLogger: ******* Search Product on Amazon *******
+2022-10-02 17:25:28,457: INFO: utilities.customLogger: ******* Search Product on Amazon *******
+2022-10-02 17:25:28,457: INFO: utilities.customLogger: ******* Search Samsung Product on Amazon *******
+2022-10-02 17:25:31,808: INFO: utilities.customLogger: ******* Search Samsung Product on Amazon between 0 to 20000 *******
+2022-10-02 17:25:34,835: INFO: utilities.customLogger: ******* Select the Third Product in list *******
+2022-10-02 17:25:45,023: INFO: utilities.customLogger: ******* Add the Selected product to Cart *******
+2022-10-02 17:35:20,813: INFO: utilities.customLogger: ******* test_search_product *******
+2022-10-02 17:35:20,825: INFO: utilities.customLogger: ******* Search Product on Amazon *******
+2022-10-02 17:35:29,457: INFO: utilities.customLogger: ******* Search Product on Amazon *******
+2022-10-02 17:35:29,457: INFO: utilities.customLogger: ******* Search Samsung Product on Amazon *******
+2022-10-02 17:35:32,607: INFO: utilities.customLogger: ******* Search Samsung Product on Amazon between 0 to 20000 *******
+2022-10-02 17:35:35,109: INFO: utilities.customLogger: ******* Select the Third Product in list *******
+2022-10-02 17:35:45,337: INFO: utilities.customLogger: ******* Add the Selected product to Cart *******
+2022-10-02 18:09:23,905: INFO: utilities.customLogger: ******* test_search_product *******
+2022-10-02 18:09:23,906: INFO: utilities.customLogger: ******* Search Product on Amazon *******
+2022-10-02 18:09:32,595: INFO: utilities.customLogger: ******* Search Product on Amazon *******
+2022-10-02 18:09:32,596: INFO: utilities.customLogger: ******* Search Samsung Product on Amazon *******
+2022-10-02 18:09:34,969: INFO: utilities.customLogger: ******* Search Samsung Product on Amazon between 0 to 20000 *******
+2022-10-02 18:09:37,334: INFO: utilities.customLogger: ******* Select the Third Product in list *******
+2022-10-02 18:09:47,584: INFO: utilities.customLogger: ******* Add the Selected product to Cart *******
+2022-10-02 18:23:26,421: INFO: utilities.customLogger: ******* test_search_product *******
+2022-10-02 18:23:26,421: INFO: utilities.customLogger: ******* Search Product on Amazon *******
+2022-10-02 18:23:33,876: INFO: utilities.customLogger: ******* Search Product on Amazon *******
+2022-10-02 18:23:33,876: INFO: utilities.customLogger: ******* Search Samsung Product on Amazon *******
+2022-10-02 18:23:38,349: INFO: utilities.customLogger: ******* Search Samsung Product on Amazon between 0 to 20000 *******
+2022-10-02 18:23:43,097: INFO: utilities.customLogger: ******* Select the Third Product in list *******
+2022-10-02 18:23:53,411: INFO: utilities.customLogger: ******* Add the Selected product to Cart *******
+2022-10-02 18:27:41,082: INFO: utilities.customLogger: ******* test_search_product *******
+2022-10-02 18:27:41,082: INFO: utilities.customLogger: ******* Search Product on Amazon *******
+2022-10-02 18:27:53,215: INFO: utilities.customLogger: ******* Search Product on Amazon *******
+2022-10-02 18:27:53,215: INFO: utilities.customLogger: ******* Search Samsung Product on Amazon *******
+2022-10-02 18:27:57,726: INFO: utilities.customLogger: ******* Search Samsung Product on Amazon between 0 to 20000 *******
+2022-10-02 18:27:59,981: INFO: utilities.customLogger: ******* Select the Third Product in list *******
+2022-10-02 18:28:10,184: INFO: utilities.customLogger: ******* Add the Selected product to Cart *******
+2022-10-03 10:39:21,378: INFO: utilities.customLogger: ******* test_search_product *******
+2022-10-03 10:39:21,378: INFO: utilities.customLogger: ******* Search Product on Amazon *******
+2022-10-03 10:39:26,990: INFO: utilities.customLogger: ******* Search Product on Amazon *******
+2022-10-03 10:39:26,991: INFO: utilities.customLogger: ******* Search Samsung Product on Amazon *******
+2022-10-03 10:39:31,568: INFO: utilities.customLogger: ******* Search Samsung Product on Amazon between 0 to 20000 *******
+2022-10-03 10:39:34,597: INFO: utilities.customLogger: ******* Select the Third Product in list *******
+2022-10-03 10:39:34,768: INFO: utilities.customLogger: ******* Add the Selected product to Cart *******
+2022-10-03 10:51:20,773: INFO: utilities.customLogger: ******* test_search_product *******
+2022-10-03 10:51:20,773: INFO: utilities.customLogger: ******* Search Product on Amazon *******
+2022-10-03 10:51:27,048: INFO: utilities.customLogger: ******* Click On Search Product on Amazon *******
+2022-10-03 10:51:27,048: INFO: utilities.customLogger: ******* Search Samsung Product on Amazon Search Bar *******
+2022-10-03 10:51:27,158: INFO: utilities.customLogger: ******* Click Search Bar Button *******
+2022-10-03 10:51:29,499: INFO: utilities.customLogger: ******* Filter Samsung Product on Amazon between 0 to 20000 *******
+2022-10-03 10:51:29,692: INFO: utilities.customLogger: ******* Click On Filter Button *******
+2022-10-03 10:51:32,353: INFO: utilities.customLogger: ******* Select the Third Product in list *******
+2022-10-03 10:51:32,525: INFO: utilities.customLogger: ******* Add the Selected product to Cart *******
+2022-10-03 10:51:40,806: INFO: utilities.customLogger: ******* Navigate to Cart *******
+2022-10-03 10:51:48,664: INFO: utilities.customLogger: ******* Close the Browser *******
+2022-10-03 11:03:01,953: INFO: utilities.customLogger: ******* test_search_product *******
+2022-10-03 11:03:01,953: INFO: utilities.customLogger: ******* Search Product on Amazon *******
+2022-10-03 11:03:08,061: INFO: utilities.customLogger: ******* Click On Search Product on Amazon *******
+2022-10-03 11:03:08,061: INFO: utilities.customLogger: ******* Search Samsung Product on Amazon Search Bar *******
+2022-10-03 11:03:08,165: INFO: utilities.customLogger: ******* Click Search Bar Button *******
+2022-10-03 11:03:10,559: INFO: utilities.customLogger: ******* Filter Samsung Product on Amazon between 0 to 20000 *******
+2022-10-03 11:03:10,944: INFO: utilities.customLogger: ******* Click On Filter Button *******
+2022-10-03 11:03:13,281: INFO: utilities.customLogger: ******* Select the Third Product in list *******
+2022-10-03 11:03:13,463: INFO: utilities.customLogger: ******* Add the Selected product to Cart *******
+2022-10-03 11:03:21,152: INFO: utilities.customLogger: ******* Navigate to Cart *******
+2022-10-03 14:10:00,013: INFO: utilities.customLogger: ******* test_search_product *******
+2022-10-03 14:10:00,097: INFO: utilities.customLogger: ******* Search Product on Amazon *******
+2022-10-03 14:10:14,875: INFO: utilities.customLogger: ******* Click On Search Product on Amazon *******
+2022-10-03 14:10:14,875: INFO: utilities.customLogger: ******* Search Samsung Product on Amazon Search Bar *******
+2022-10-03 14:10:15,094: INFO: utilities.customLogger: ******* Click Search Bar Button *******
+2022-10-03 14:10:20,328: INFO: utilities.customLogger: ******* Filter Samsung Product on Amazon between 0 to 20000 *******
+2022-10-03 14:10:20,571: INFO: utilities.customLogger: ******* Click On Filter Button *******
+2022-10-03 14:10:23,461: INFO: utilities.customLogger: ******* Select the Third Product in list *******
+2022-10-03 14:10:23,635: INFO: utilities.customLogger: ******* Add the Selected product to Cart *******
+2022-10-03 14:10:35,195: INFO: utilities.customLogger: ******* Navigate to Cart *******
+2022-10-03 14:10:44,225: INFO: utilities.customLogger: ******* Close the Browser *******
+2022-10-03 14:12:45,420: INFO: utilities.customLogger: ******* test_search_product *******
+2022-10-03 14:12:45,458: INFO: utilities.customLogger: ******* Search Product on Amazon *******
+2022-10-03 14:13:00,439: INFO: utilities.customLogger: ******* Click On Search Product on Amazon *******
+2022-10-03 14:13:00,439: INFO: utilities.customLogger: ******* Search Samsung Product on Amazon Search Bar *******
+2022-10-03 14:13:00,534: INFO: utilities.customLogger: ******* Click Search Bar Button *******
+2022-10-03 14:13:04,594: INFO: utilities.customLogger: ******* Filter Samsung Product on Amazon between 0 to 20000 *******
+2022-10-03 14:13:04,776: INFO: utilities.customLogger: ******* Click On Filter Button *******
+2022-10-03 14:13:07,546: INFO: utilities.customLogger: ******* Select the Third Product in list *******
+2022-10-03 14:13:07,723: INFO: utilities.customLogger: ******* Add the Selected product to Cart *******
+2022-10-03 14:13:18,189: INFO: utilities.customLogger: ******* Navigate to Cart *******
+2022-10-03 14:13:26,486: INFO: utilities.customLogger: ******* Close the Browser *******
+2022-10-03 14:14:25,179: INFO: utilities.customLogger: ******* test_search_product *******
+2022-10-03 14:14:25,228: INFO: utilities.customLogger: ******* Search Product on Amazon *******
+2022-10-03 14:14:45,211: INFO: utilities.customLogger: ******* Click On Search Product on Amazon *******
+2022-10-03 14:14:45,211: INFO: utilities.customLogger: ******* Search Samsung Product on Amazon Search Bar *******
+2022-10-03 14:14:45,289: INFO: utilities.customLogger: ******* Click Search Bar Button *******
+2022-10-03 14:14:54,103: INFO: utilities.customLogger: ******* Filter Samsung Product on Amazon between 0 to 20000 *******
+2022-10-03 14:14:54,378: INFO: utilities.customLogger: ******* Click On Filter Button *******
+2022-10-03 14:15:03,900: INFO: utilities.customLogger: ******* Select the Third Product in list *******
+2022-10-03 14:15:04,307: INFO: utilities.customLogger: ******* Add the Selected product to Cart *******
+2022-10-03 14:15:20,734: INFO: utilities.customLogger: ******* Navigate to Cart *******
+2022-10-03 14:15:31,086: INFO: utilities.customLogger: ******* Close the Browser *******
+2022-10-03 14:18:37,750: INFO: utilities.customLogger: ******* test_search_product *******
+2022-10-03 14:18:37,787: INFO: utilities.customLogger: ******* Search Product on Amazon *******
+2022-10-03 14:18:53,175: INFO: utilities.customLogger: ******* Click On Search Product on Amazon *******
+2022-10-03 14:18:53,175: INFO: utilities.customLogger: ******* Search Samsung Product on Amazon Search Bar *******
+2022-10-03 14:18:53,279: INFO: utilities.customLogger: ******* Click Search Bar Button *******
+2022-10-03 14:18:59,515: INFO: utilities.customLogger: ******* Filter Samsung Product on Amazon between 0 to 20000 *******
+2022-10-03 14:18:59,665: INFO: utilities.customLogger: ******* Click On Filter Button *******
+2022-10-03 14:19:04,675: INFO: utilities.customLogger: ******* Select the Third Product in list *******
+2022-10-03 14:19:04,856: INFO: utilities.customLogger: ******* Add the Selected product to Cart *******
+2022-10-03 14:19:20,171: INFO: utilities.customLogger: ******* Navigate to Cart *******
+2022-10-03 14:19:33,445: INFO: utilities.customLogger: ******* Close the Browser *******
+2022-10-03 14:21:54,829: INFO: utilities.customLogger: ******* test_search_product *******
+2022-10-03 14:21:54,876: INFO: utilities.customLogger: ******* Search Product on Amazon *******
+2022-10-03 14:22:07,139: INFO: utilities.customLogger: ******* Click On Search Product on Amazon *******
+2022-10-03 14:22:07,139: INFO: utilities.customLogger: ******* Search Samsung Product on Amazon Search Bar *******
+2022-10-03 14:22:07,244: INFO: utilities.customLogger: ******* Click Search Bar Button *******
+2022-10-03 14:22:11,372: INFO: utilities.customLogger: ******* Filter Samsung Product on Amazon between 0 to 20000 *******
+2022-10-03 14:22:11,548: INFO: utilities.customLogger: ******* Click On Filter Button *******
+2022-10-03 14:22:14,306: INFO: utilities.customLogger: ******* Select the Third Product in list *******
+2022-10-03 14:22:14,491: INFO: utilities.customLogger: ******* Add the Selected product to Cart *******
+2022-10-03 14:22:25,079: INFO: utilities.customLogger: ******* Navigate to Cart *******
+2022-10-03 14:22:52,769: INFO: utilities.customLogger: ******* test_search_product *******
+2022-10-03 14:22:52,770: INFO: utilities.customLogger: ******* Search Product on Amazon *******
+2022-10-03 14:22:58,511: INFO: utilities.customLogger: ******* Click On Search Product on Amazon *******
+2022-10-03 14:22:58,511: INFO: utilities.customLogger: ******* Search Samsung Product on Amazon Search Bar *******
+2022-10-03 14:22:58,613: INFO: utilities.customLogger: ******* Click Search Bar Button *******
+2022-10-03 14:23:02,310: INFO: utilities.customLogger: ******* Filter Samsung Product on Amazon between 0 to 20000 *******
+2022-10-03 14:23:02,533: INFO: utilities.customLogger: ******* Click On Filter Button *******
+2022-10-03 14:23:05,662: INFO: utilities.customLogger: ******* Select the Third Product in list *******
+2022-10-03 14:23:05,836: INFO: utilities.customLogger: ******* Add the Selected product to Cart *******
+2022-10-03 14:23:13,466: INFO: utilities.customLogger: ******* Navigate to Cart *******
+2022-10-03 14:23:19,487: INFO: utilities.customLogger: ******* Close the Browser *******
+2022-10-03 14:24:50,482: INFO: utilities.customLogger: ******* test_search_product *******
+2022-10-03 14:24:50,563: INFO: utilities.customLogger: ******* Search Product on Amazon *******
+2022-10-03 14:25:06,071: INFO: utilities.customLogger: ******* Click On Search Product on Amazon *******
+2022-10-03 14:25:06,071: INFO: utilities.customLogger: ******* Search Samsung Product on Amazon Search Bar *******
+2022-10-03 14:25:06,170: INFO: utilities.customLogger: ******* Click Search Bar Button *******
+2022-10-03 14:25:10,422: INFO: utilities.customLogger: ******* Filter Samsung Product on Amazon between 0 to 20000 *******
+2022-10-03 14:25:10,651: INFO: utilities.customLogger: ******* Click On Filter Button *******
+2022-10-03 14:25:13,349: INFO: utilities.customLogger: ******* Select the Third Product in list *******
+2022-10-03 14:25:13,561: INFO: utilities.customLogger: ******* Add the Selected product to Cart *******
+2022-10-03 14:25:23,093: INFO: utilities.customLogger: ******* Navigate to Cart *******
+2022-10-03 14:25:30,722: INFO: utilities.customLogger: ******* Close the Browser *******
+2022-10-03 14:26:15,241: INFO: utilities.customLogger: ******* test_search_product *******
+2022-10-03 14:26:15,273: INFO: utilities.customLogger: ******* Search Product on Amazon *******
+2022-10-03 14:26:26,202: INFO: utilities.customLogger: ******* Click On Search Product on Amazon *******
+2022-10-03 14:26:26,202: INFO: utilities.customLogger: ******* Search Samsung Product on Amazon Search Bar *******
+2022-10-03 14:26:26,300: INFO: utilities.customLogger: ******* Click Search Bar Button *******
+2022-10-03 14:26:32,702: INFO: utilities.customLogger: ******* Filter Samsung Product on Amazon between 0 to 20000 *******
+2022-10-03 14:26:32,902: INFO: utilities.customLogger: ******* Click On Filter Button *******
+2022-10-03 14:26:36,206: INFO: utilities.customLogger: ******* Select the Third Product in list *******
+2022-10-03 14:26:36,427: INFO: utilities.customLogger: ******* Add the Selected product to Cart *******
+2022-10-03 14:26:43,663: INFO: utilities.customLogger: ******* Navigate to Cart *******
+2022-10-03 14:26:56,570: INFO: utilities.customLogger: ******* Close the Browser *******
