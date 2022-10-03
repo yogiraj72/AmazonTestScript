@@ -148,3 +148,12 @@
 2022-10-03 14:26:36,427: INFO: utilities.customLogger: ******* Add the Selected product to Cart *******
 2022-10-03 14:26:43,663: INFO: utilities.customLogger: ******* Navigate to Cart *******
 2022-10-03 14:26:56,570: INFO: utilities.customLogger: ******* Close the Browser *******
+2022-10-03 17:05:48,618: INFO: utilities.customLogger: ******* test_search_product *******
+2022-10-03 17:05:48,634: INFO: utilities.customLogger: ******* Search Product on Amazon *******
+2022-10-03 17:05:55,543: INFO: utilities.customLogger: ******* Click On Search Product on Amazon *******
+2022-10-03 17:05:55,543: INFO: utilities.customLogger: ******* Search Samsung Product on Amazon Search Bar *******
+2022-10-03 17:05:55,653: INFO: utilities.customLogger: ******* Click Search Bar Button *******
+2022-10-03 17:05:59,117: INFO: utilities.customLogger: ******* Filter Samsung Product on Amazon between 0 to 20000 *******
+2022-10-03 17:05:59,370: INFO: utilities.customLogger: ******* Click On Filter Button *******
+2022-10-03 17:06:03,106: INFO: utilities.customLogger: ******* Select the Third Product in list *******
+2022-10-03 17:06:03,261: INFO: utilities.customLogger: ******* Add the Selected product to Cart *******
